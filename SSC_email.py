@@ -543,8 +543,9 @@ with st.form("ssc_form"):
                 st.warning("Tidak ada data yang diisi.")
             
             st.markdown("---")
-            st.info("💡 **Tip:** Cek inbox email Anda untuk melihat rangkuman SSC. Refresh halaman untuk mengisi form baru.")
+            st.info("💡 **Tip:** Cek inbox atau **SPAM** email Anda untuk melihat rangkuman SSC. Refresh halaman untuk mengisi form baru.")
 
 # Footer
 st.markdown("---")
+
 st.markdown("*Powered by Humanis Group | www.humanisgroup.co.id*")
